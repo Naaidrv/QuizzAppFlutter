@@ -5,7 +5,7 @@
   _Esta App no funcionaría sin la ayuda de_
 
   * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código.
-  * [Android Studio](https://developer.android.com/studio?hl=es-419&gclid=CjwKCAjw-sqKBhBjEiwAVaQ9a_LvmOmPh9T24hmpS5QlrhLaItCvjXurAImX3vcYbcZz8IwybzC0KhoCZzUQAvD_BwE&gclsrc=aw.ds) - Utilizado mayormente para emular una Interfaz de teléfono.
+  * [Android Studio](https://developer.android.com/studio/intro?hl=es-419) - Utilizado mayormente para emular una Interfaz de teléfono.
   * [Dart](https://dart.dev/) - Lenguaje de programación de código abierto, desarrollado por Google.
   * [Flutter](https://flutter.dev/) - SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google, para crear interfaces de usuario para aplicaciones iOS y Android.
 
