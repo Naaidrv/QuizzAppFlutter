@@ -1,5 +1,5 @@
   # 📱 QuizzApp con Flutter 📱
-  _Estoy dando mis primeros pasos con [Flutter](https://flutter.dev/) y [Dart](https://dart.dev/) Esta es una aplicación de tipo "Quiz" sin fines de lucro y únicamente con el fin de aprender y poner el prática mis habilidades._
+  _Estoy dando mis primeros pasos con [Flutter](https://flutter.dev/) y [Dart](https://dart.dev/) Esta es una aplicación de tipo "Quiz" sin fines de lucro y únicamente con el fin de aprender y poner en prática mis habilidades._
   ## 🛠️ Construido con 🛠️
 
   _Esta App no funcionaría sin la ayuda de_
@@ -11,7 +11,7 @@
 
   ## ✒️ Autores ✒️
 
-  _Está App fue creada por NaaidRV. El código fuente fue en base del video tutorial de [Doctor Code](https://www.youtube.com/c/doctorcode9)_
+  _Esta App fue creada por NaaidRV. El código fuente fue en base del video tutorial de [Doctor Code](https://www.youtube.com/c/doctorcode9)_
 
   * **Doctor Code** - *Diseño, desarrollo* - [Doctor Code](https://www.youtube.com/c/doctorcode9)
   * **Naaid RV** - *Documentación* - [Naaid RV](https://github.com/Naaidrv)
