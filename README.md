@@ -1,16 +1,24 @@
-# quizapp
+  # 📱 QuizzApp con Flutter 📱
+  _Estoy dando mis primeros pasos con [Flutter](https://flutter.dev/) y [Dart](https://dart.dev/) Esta es una aplicación de tipo "Quiz" sin fines de lucro y únicamente con el fin de aprender y poner en prática mis habilidades._
+  ## 🛠️ Construido con 🛠️
 
-A new Flutter project.
+  _Esta App no funcionaría sin la ayuda de_
 
-## Getting Started
+  * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código.
+  * [Android Studio](https://developer.android.com/studio/intro?hl=es-419) - Utilizado mayormente para emular una Interfaz de teléfono.
+  * [Dart](https://dart.dev/) - Lenguaje de programación de código abierto, desarrollado por Google.
+  * [Flutter](https://flutter.dev/) - SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google, para crear interfaces de usuario para aplicaciones iOS y Android.
 
-This project is a starting point for a Flutter application.
+  ## ✒️ Autores ✒️
 
-A few resources to get you started if this is your first Flutter project:
+  _Esta App fue creada por NaaidRV. El código fuente fue en base del video tutorial de [Doctor Code](https://www.youtube.com/c/doctorcode9)_
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  * **Doctor Code** - *Diseño, desarrollo* - [Doctor Code](https://www.youtube.com/c/doctorcode9)
+  * **Naaid RV** - *Documentación* - [Naaid RV](https://github.com/Naaidrv)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ## ✌ Si te gusta mi trabajo ✌
+
+  * [Contáctame](https://t.me/NaaidRV)
+
+  ---
+  Primeros pasos con Flutter - Quiz App 😊❤️
