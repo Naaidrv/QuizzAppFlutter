@@ -16,6 +16,10 @@
   * **Doctor Code** - *Diseño, desarrollo* - [Doctor Code](https://www.youtube.com/c/doctorcode9)
   * **Naaid RV** - *Documentación* - [Naaid RV](https://github.com/Naaidrv)
 
+  ## 📸 Capturas de pantalla 📸
+  
+  <img src = "assets/img2.jpg" height= "400">
+
   ## ✌ Si te gusta mi trabajo ✌
 
   * [Contáctame](https://t.me/NaaidRV)
